@@ -5,3 +5,6 @@ langchain_google_genai
 langchain
 streamlit
 langchain_community
+pypdf
+PyPDF2
+
